@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="basic_margin">8dp</dimen>
+    <dimen name="basic_padding">8dp</dimen>
+    <dimen name="basic_text">15sp</dimen>
+    <dimen name="basic_elevation">2dp</dimen>
+</resources>
